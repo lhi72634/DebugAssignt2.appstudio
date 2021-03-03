@@ -1,3 +1,4 @@
+//Laura Higueras
 /*
 ADD ARRAYS AND SOME ARRAY METHODS - .LENGTH, POP, PUSH
 
